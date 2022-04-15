@@ -70,7 +70,6 @@ export default class ForgetPassword extends Component {
                             </div>
                         }
                         <p>Already have an account? <a href="/">login</a></p>
-                        <p>Create a new account? <a href="/sign-up">Signup</a></p>
                     </form >
                 </div>
             </div >
